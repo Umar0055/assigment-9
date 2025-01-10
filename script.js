@@ -106,9 +106,6 @@
 // console.log("Sum of first and last digit: " + sum);
 
 
-
-
-
 //assigement 16
 // var number =12345;
 // var resverdnum =parseInt(number.toString().split('').reverse().join(''));
@@ -172,3 +169,42 @@
 // } else {
 //     console.log("Invalid digit");
 // }}
+
+// assigement 26
+
+
+
+// assigement 27
+// function isprime(n){
+//     while(n<2){
+       
+//         return false;
+        
+//     }
+//     for(var i=2;i<Math.sqrt(n);i++){
+//         if(n%i===0){
+//             return false;
+            
+//         }
+    
+//     }
+//     return true;
+// }
+// var number =1;
+// while(number<100){
+//     if(isprime(number)){
+// console.log(number);
+//     }
+//     number++;
+// }
+// assigement 28
+
+//     var number =1;
+//     var sum =0;
+//     for(var i=1;i<100;i++){
+//         if(isprime(i)){
+//              sum =sum +i;
+           
+//         }
+//     }
+// console.log(sum);
