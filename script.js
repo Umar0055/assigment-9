@@ -79,16 +79,16 @@
 
 // assigement 11
 // var number = 2345678992;
-// var firstDigit = number;
-// var lastDigit = number;
-// while (firstDigit >= 10) {
-//     firstDigit = Math.floor(firstDigit / 10);
+// var firstnum = number;
+// var lastnum = number;
+// while (firstnum >= 10) {
+//     firstnum = Math.floor(firstnum / 10);
 // }
-// console.log("First digit: " + firstDigit);
-// while (lastDigit >= 10) {
-//     lastDigit = lastDigit % 10;
+// console.log("First num is " + firstnum);
+// while (lastnum >= 10) {
+//     lastnum = lastnum % 10;
 // }
-// console.log("Last digit: " + lastDigit);
+// console.log("Last num is " + lastnum);
 
 // assigement 12
 // var number = 2345678992;
@@ -110,26 +110,7 @@
 // var number =12345;
 // var resverdnum =parseInt(number.toString().split('').reverse().join(''));
 //  console.log(resverdnum);
-
-// assigement 17
-// var word = "lol";
-// var reverseWord = "";
-// for (var i = word.length - 1; i >= 0; i--) {
-//     reverseWord += word[i];
-// }
-// if (
-//     word.toLowerCase() === reverseWord.toLowerCase()
-// ) {
-//     console.log("The word is a palindrome.");
-// } else {
-//     console.log("The word is not a palindrome.");
-// }
-
-  
-    
-
-
-                       
+           
 
 // assigement 19
 // var number = 1;
@@ -167,11 +148,26 @@
 // else if(digit == 9){
 //     console.log("nine");
 // } else {
-//     console.log("Invalid digit");
+//     console.log("invalid count");
 // }}
 
 // assigement 26
-
+// function isprime(n){
+//     while(n<2){
+       
+//         return `${n} is not prime`;
+        
+//     }
+//     for(var i=2;i<Math.sqrt(n);i++){
+//         if(n%i===0){
+//             return `${n} is not prime`;
+            
+//         }
+    
+//     }
+//     return `${n} is prime`;
+// }
+// console.log(isprime(4));
 
 
 // assigement 27
