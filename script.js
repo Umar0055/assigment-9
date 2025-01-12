@@ -92,18 +92,18 @@
 
 // assigement 12
 // var number = 2345678992;
-// var firstDigit = number;
-// var lastDigit = number;
-// while (firstDigit >= 10) {
-//     firstDigit = Math.floor(firstDigit / 10);
+// var firstnum = number;
+// var lastnum = number;
+// while (firstnum >= 10) {
+//     firstnum = Math.floor(firstnm / 10);
 // }
-// console.log("First digit: " + firstDigit);
-// while (lastDigit >= 10) {
-//     lastDigit = lastDigit % 10;
+// console.log("First num is " + firstnum);
+// while (lastnum >= 10) {
+//     lastnum = last % 10;
 // }
-// console.log("Last digit: " + lastDigit);
-// var sum = firstDigit + lastDigit;
-// console.log("Sum of first and last digit: " + sum);
+// console.log("Last num is" + lastnum);
+// var sum = firstnum + lastnum;
+// console.log("Sum of first and last num is " + sum);
 
 
 //assigement 16
