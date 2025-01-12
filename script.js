@@ -114,41 +114,41 @@
 
 // assigement 19
 // var number = 1;
-// var digit;
+// var num;
 // while (number > 0) {
-// digit = number % 10;
+// num = number % 10;
 // number = Math.floor(number / 10);
-// if(digit == 0){
+// if(num == 0){
 //     console.log("zero");
 // }
-// else if(digit == 1){
+// else if(num == 1){
 //     console.log("one");
 // }
-// else if(digit == 2){
+// else if(num == 2){
 //     console.log("two");
 // }
-// else if(digit == 3){
+// else if(num == 3){
 //     console.log("three");
 // }
-// else if(digit == 4){
+// else if(num== 4){
 //     console.log("four");
 // }
-// else if(digit == 5){
+// else if(num== 5){
 //     console.log("five");
 // }
-// else if(digit == 6){
+// else if(num== 6){
 //     console.log("six");
 // }
-// else if(digit == 7){
+// else if(num== 7){
 //     console.log("seven");
 // }
-// else if(digit == 8){
+// else if(num == 8){
 //     console.log("eight");
 // }
-// else if(digit == 9){
+// else if(num == 9){
 //     console.log("nine");
 // } else {
-//     console.log("invalid count");
+//     console.log("try again ");
 // }}
 
 // assigement 26
